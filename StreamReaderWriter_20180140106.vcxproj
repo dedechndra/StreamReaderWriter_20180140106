@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="exeptionstandart.cpp" />
+    <ClCompile Include="manualexeption.cpp" />
     <ClCompile Include="StreamReaderWriter.cpp" />
     <ClCompile Include="StreamReaderWriter_20180140106.cpp" />
   </ItemGroup>

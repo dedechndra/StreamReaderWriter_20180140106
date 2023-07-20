@@ -24,5 +24,8 @@
     <ClCompile Include="exeptionstandart.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="manualexeption.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
