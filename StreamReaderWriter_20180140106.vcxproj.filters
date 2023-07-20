@@ -18,5 +18,8 @@
     <ClCompile Include="StreamReaderWriter_20180140106.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StreamReaderWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
